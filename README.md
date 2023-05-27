@@ -17,8 +17,6 @@ Berikut adalah deskripsi umum tentang bagaimana aplikasi tersebut dapat beropera
 
 6. Koneksi Antara Frontend dan Backend: Frontend ReactJS akan berkomunikasi dengan backend Golang melalui HTTP API. Permintaan HTTP seperti GET, POST, PUT, dan DELETE akan digunakan untuk memperoleh, menambahkan, memperbarui, dan menghapus data film. Backend akan mengirimkan respon yang sesuai dengan permintaan yang diterima oleh frontend.
 
-7. Penting untuk dicatat bahwa deskripsi di atas adalah gambaran umum tentang cara kerja aplikasi CRUD Movie List dengan Golang dan ReactJS. Implementasi spesifik dan rincian teknis dapat bervariasi tergantung pada preferensi dan kebutuhan proyek yang spesifik.
-
 ## How to run the program?
 
 1. go to path `server/cmd/api` and write `go run main.go` in terminal
